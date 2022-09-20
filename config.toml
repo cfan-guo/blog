@@ -1,4 +1,4 @@
-baseURL = 'https://cfan-guo.github.io/blog'
+baseURL = 'https://blog.cfanguo.me/'
 languageCode = 'en-us'
 title = 'See Fan Go'
 theme = "archie"
