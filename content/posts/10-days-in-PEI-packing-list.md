@@ -2,7 +2,7 @@
 title: "10 Days in PEI Packing List"
 date: 2022-09-24T19:09:02-04:00
 description: Original packing list for a 10 day trip to Prince Edward Island during September 2022.
-draft: true
+draft: false
 tags: ['packing list', 'prince edward island', 'onebag']
 categories: ['travel']
 ---
