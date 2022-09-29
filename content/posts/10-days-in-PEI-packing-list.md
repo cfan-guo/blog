@@ -9,6 +9,8 @@ categories: ['travel']
 
 *This has been lightly edited from the original reddit post, which you can see [here](https://www.reddit.com/r/onebag/comments/x6nlh1/10_day_frugal_packing_list_for_pei_canada/).*
 
+![Jansport backpack, packing cubes and Uniqlo single strap backpack used as a tech pouch](https://preview.redd.it/l063lwr033m91.png?width=960&crop=smart&auto=webp&s=57ed183b4e0f7b7f0c90239e7371b6ca93bc3bbd "The internal and external bags")
+
 I first looked into the one-bag lifestyle during my grad trip, and I'm proud to say that I've come a ways since my 65L backpack (checked) onebag days. I'm pretty frugal, and the items certainly reflect that. Hopefully this can help anyone else who feels like they "can't get into onebagging" because they can't afford all the cool technical (expensive) items this sub talks about.
 
 A little background about me and my setup - we'll be staying in the same hotel for the 10 days of our trip - 2 transport days plus 8 full sightseeing days. Our plan is to do a mix of city stuff (strolls, museums, restaurants) as well as some outdoorsy stuff. My regular style is mostly athleisure, since I find it to be the most comfortable and practical (plus stretchy everything is great). I plan on working out at the hotel gym at least 5 times during my trip, mostly weights, and do a couple of light hikes. I'm not fussy with hair, skincare or makeup while travelling, with the exception of my brows. I usually onebag (or 1.5bag) it on the way to my destination, and twobag it on the way home. 
