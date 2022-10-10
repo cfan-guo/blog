@@ -7,6 +7,7 @@ theme = "archie"
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	subtitle = "A mostly non-tech blog about travel, food, fitness and reviews"
   favicon = "favicon.ico"
+  customcss = ["css/customize.css"]
 
 # Social Tags
 

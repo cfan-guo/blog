@@ -1,0 +1,8 @@
+li {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+ul > li::before !important {
+  content: '- ';
+  font-weight: bold;
+}
