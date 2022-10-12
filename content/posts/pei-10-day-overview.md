@@ -38,7 +38,7 @@ So if you're also into Farmer's Markets, these are the days they're open (usuall
 > - Wednesday: 
 >   - [Charlottetown Farmers Market (fewer vendors)](https://charlottetownfarmersmarket.com/)
 
-We stayed at the Hampton by Hilton for the entirety of the trip, which was near a shopping plaza in one diretion and the big COWS Creamery in the other, north of Charlottetown. This gave us a few meal options when we failed to find an open restaurant on our day trip, but didn't want to go all the way to Downtown Charlottetown for a sitdown meal (fast food and TV in the hotel FTW!) Because I wanted to be able to workout without having to find a local gym, I opted for a chain hotel rather than one of those boutique places every travel person raves about... also because I didn't have 5k to drop on just the hotel for 10 days.
+We stayed at the Hampton by Hilton for the entirety of the trip, which was near a shopping plaza in one direction and the big COWS Creamery in the other, north of Charlottetown. This gave us a few meal options when we failed to find an open restaurant on our day trip, but didn't want to go all the way to Downtown Charlottetown for a sitdown meal (fast food and TV in the hotel FTW!) Because I wanted to be able to workout without having to find a local gym, I opted for a chain hotel rather than one of those boutique places every travel person raves about... also because I didn't have 5k to drop on just the hotel for 10 days.
 
 ## 10 day itinerary
 
@@ -46,10 +46,12 @@ Legend:
 > 🦞  Lobster 🥔 Potato 🛍️ Shopping 😋 Food 📸 Scenic🍦 Ice cream 🏛️  Museum 🧼  Soap 🐐 Farm animals 🍷 Alcohol
 
 ### Travel Day
+![A Cows Cow greets you at the Charlottetown Airport. Downtown Charlottetown (pedestrian friendly Richmond St) and food from Row House Lobster Co.](/posts/img/PEI-Day-1.png)
 > - Pick up rental car and check into hotel
 > - Grab a meal downtown (free parking after 6pm), we went to [Row House Lobster Co.](https://www.rowhouselobster.ca/) 🦞
 
 ### Anne of Green Gables and Cavendish Day
+![1. Birthplace of LMM 2. Anne of Green Gables Museum 3. Hostetters Viewscape 4. Green Gables Heritage Centre 5. Montgomery Park 6. Site of LMM’s Cavendish Home 7. Cavendish Community Cemetery](/posts/img/PEI-Day-2.png)
 > - [Birthplace of LMM Montgomery](https://lmmontgomerybirthplace.ca/) 🏛️
 > - [Anne of Green Gables Museum and Store](https://www.annemuseum.com/index.php) 🏛️🧼
 > - [Hostetter's Viewscape](https://goo.gl/maps/dUaCr8T8reQgktap8) 📸
@@ -62,6 +64,7 @@ Legend:
 > - [Avonlea Village](http://www.avonlea.ca/) (mostly closed after Labour Day except for Anne of Green Gables Chocolates and one of the restaurants) 🛍️😋
 
 ### Souris Day (Lobster Lovers)
+![Lobster row from the Lobster Shack, red sand beaches, potato fudge from Oh Fudge!, Souris Lighthouse views, Basin Head Fisheries Museum and lobster and vibes on the Lobster Lovers outing](/posts/img/PEI-Day-3.png)
 > - [Lobster Lovers with the Fiddling Fisherman](https://fiddlingfisherman.com/experiences/lobster-lovers/) (booked in advance) 🦞😋
 > - [Lobster Shack](https://www.facebook.com/TheLobsterShackOnSourisBeach/) 🦞😋
 > - [Poké Shack](https://www.facebook.com/people/The-Pok%C3%A9-Shack/100063636309771/) 😋
@@ -74,6 +77,7 @@ Legend:
 > - [Souris by the Sea Treasures Gift Shop](https://sourisbytheseatreasures.com/) 🛍️
 
 ### Central Coastal Farm Day
+![Fake cow and ground beef at the Milky Way plaza (and lobster supper and dessert). Real cows at Honey Island Wine Company (and lobster supper starters).](/posts/img/PEI-Day-4.png)
 > - [Island Honey Wine Tour](https://www.islandhoneywine.ca/pages/farm-tours) (booked in advance) 🛍️🍷🧼📸
 > - [COWS Creamery factory tour](https://www.tourismpei.com/search/OperatorDetails/name/CowsCreamery/op_id/5793/) (Milky Way location) 🛍️🍦
 > - [The Soap Drawer](https://www.facebook.com/tidewatersoapery/) 🛍️🧼
@@ -84,10 +88,11 @@ Legend:
 > - [New Glasgow Lobster Suppers](https://peilobstersuppers.com/) (arrive early, ~4pm) 🦞😋
 
 ### Farmer's Market Day
+![St Dunstan’s Basilica, Downtown Charlottetown Farmers Market, COWs ice cream and hopping at one of the many cute shops with local goods. Lunch at Datcha at the Founders Food Hall for a taste of French Caribbean food. Dinner at DJ's Chinese Cuisine for authentic Chinese food and dimsum.](/posts/img/PEI-Day-5.png)
 > - [Downtown Charlottetown Farmers Market](https://downtowncharlottetownmarket.com/) 🛍️😋🧼
 > - [Charlottetown Flea Market](https://www.facebook.com/charlottetownfleamarket/) 🛍️😋🧼
 > - Walk around downtown - churches and historical buildings including [St Dunstan's Basilica](https://www.stdunstanspei.com/) 📸
-> - Browse stores and restaurants along the main downtown street, from [bookstores (multiple)](https://www.google.com/maps/place/46%C2%B014'05.8%22N+63%C2%B007'43.8%22W/@46.234935,-63.1293782,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x6ac69c2c1d04948c!7e2!8m2!3d46.2349351!4d-63.1288312) to (gift shops)[http://www.annestore.ca/] to [laundromats that serve ice cream](https://goo.gl/maps/c8NWk5VbHmm6Lijo9) 🛍️😋🍦
+> - Browse stores and restaurants along the main downtown street, from [bookstores (multiple)](https://www.google.com/maps/place/46%C2%B014'05.8%22N+63%C2%B007'43.8%22W/@46.234935,-63.1293782,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x6ac69c2c1d04948c!7e2!8m2!3d46.2349351!4d-63.1288312) to [gift shops](http://www.annestore.ca/) to [laundromats that serve ice cream](https://goo.gl/maps/c8NWk5VbHmm6Lijo9) 🛍️😋🍦
 > - Check out stores on Richmond Street, including [Northern Watters Knitwear](https://nwknitwear.com/) and other ones that don't seem to be on Google Maps, huh 🛍
 > - [Moonsnail Soapworks](https://ilovemoonsnail.com/) 🧼🛍️
 > - [PEI Crafts Council](https://www.peicraftscouncil.com/) 🛍️🧼
@@ -99,6 +104,7 @@ Legend:
 > - For dinner, venture outside main downtown for [DJ's Chinese Cuisine](http://djchinesecuisine.com/) (one of the more authentic ones, plus dimsum and bubble tea) 😋
 
 ### Another Lobster Based Day
+![Great Canadian Soap Company, Deep Roots Distillery, Richards for lobster rolls and burger, Covehead Harbour Lighthouse and beach, The Soap Drawer (before we headed out) and finishing the day off with another lobster meal at Fisherman’s Wharf](/posts/img/PEI-Day-6.png)
 > - [Deep Roots Distillery - Apple Tour](https://www.deeprootsdistillery.com/) 🍷📸
 > - [Richards Fresh Seafood](https://richardsfreshseafood.com/) 🦞
 > - [Covehead Harbour Lighthouse](https://www.pc.gc.ca/apps/dfhd/page_hl_eng.aspx?id=14994) 🏖️📸
@@ -109,12 +115,14 @@ Legend:
 > - Not feeing all-you-can-eat appetizers and dessert? There are also resaurants near the lighthouse, including [Blue Mussel Cafe](http://www.bluemusselcafe.com/) and [On The Dock](https://www.facebook.com/onthedockeatery/) 😋
 
 ### Beach day
+![Basin Head Provincial Park beach day, followed by food at Red Neils and some insider information from the locals on the tuna boats heading back](/posts/img/PEI-Day-7.png)
 > - [Basin Head Provincial Park](https://www.tourismpei.com/what-to-do/beaches-parks/basin-head-provincial-park) 🏖️
 > - [Red Neils Eatery](https://www.redneilseatery.com/) for food truck style food and outdoor dining with a view 😋
 > - [Watch the tuna fishers bring in a BIG Tuna](https://www.google.com/maps/place/46%C2%B028'03.0%22N+62%C2%B004'04.7%22W/@46.467498,-62.069071,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x9e81865d0f871c7f!7e2!8m2!3d46.4674975!4d-62.0679738), usually around 5:30pm. Ask a local (which you can probably find at Red Neils) if they know if they heard if anyone's heading back in with a catch. 📸
 > - [East Point Lighthouse](https://eastpointlighthouse.ca/) 📸
 
 ### Charlottetown Day (arts and culture)
+![Farmer’s Market, Anne and Gilbert Musical, and more eating and walking around downtown](/posts/img/PEI-Day-8.png)
 > - [Charlottetown Farmers Market](https://charlottetownfarmersmarket.com/) 🥔🛍️😋
 > - [Anne and Gilbert Show](https://www.anneandgilbert.com/)
 > - [Confederation Centre](https://confederationcentre.com/) 🛍️
@@ -127,6 +135,7 @@ Legend:
 > - [Brighton Beach Lighthouse](https://goo.gl/maps/DwJ1NpzxVGBtUbQH9) 📸
 
 ### North Cape Coastal Drive
+![The Canadian Potato Museum, Bottle Houses and another lighthouse](/posts/img/PEI-Day-9.png)
 Note: many places were closed for the season, so they aren't included here :(
 > - [The Canadian Potato Museum](https://canadianpotatomuseum.com/) 🦞🥔🛍️🧼😋
 > - [Acadian Museum](https://www.museeacadien.org/) 🛍️
