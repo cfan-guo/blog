@@ -3,7 +3,7 @@ title: "Looking Ahead to 2023"
 date: 2022-12-28T20:49:01-05:00
 description: Hopes, dreams and half-baked plans for the upcoming year.
 tldr: Focus on consistency and building habits over outcomes. Replace scrolling with doing!!!
-draft: true
+draft: false
 tags: ['goals', 'new year']
 ---
 
@@ -24,6 +24,8 @@ Here are the two little monsters.
 
 As for bench - I switched my routine a couple of times this year between strength and hypertrophy, which I'll maybe eventually dedicate an entire post to.
 
+And with no preamble whatsoever, here are the
+
 ## Goals I've set for myself for 2023
 - [ ] 3 plate squat and deadlift???
 - [ ] Be able to run at least 10k
@@ -33,7 +35,7 @@ As for bench - I switched my routine a couple of times this year between strengt
 - [ ] Add blog content at least once a month
 - [ ] Add daily yoga, meditation and walking sessions
 
-Some of these are numbers to work towards, but I'm not going to beat myself up if I'm not giving 110% and crushing it every single day in a single-minded mission to attain them. I think that's unrealistic and a one-way express ticket to burning out, becoming discouraged and quitting permanently. Rather, those numbers are (mostly) reasonable goals and can actually be accomplished if I put in the work. Bringing us to the next part:
+Some of these are numbers to work towards, but I'm not going to beat myself up if I'm not giving 110% and crushing it every single day in a single-minded mission to attain them. I think that's unrealistic and a one-way express ticket to burning out, becoming discouraged and quitting permanently. Rather, those numbers are (mostly) reasonable goals and can actually be accomplished if I put in beyond the absolute bare minimum effort. Bringing us to the next part:
 
 ## Rationale
 
@@ -44,17 +46,17 @@ I want to
 - do more of some things I do, but not as regularly as I would like, and 
 - try something new and hopefully develop a habit for them. 
 
-I have an unhealthy fixation with time: not having enough time, not spending my time correctly, not doing things at the right time, and then doing nothing but scrolling on my phone for hours because I reason that I don't have enough quality time to really get into what I want to do. If I can schedule my time better, or be less attached with the idea of doing things only at the perfect time, I can get more done.
+I have an unhealthy fixation with time: not having enough time, not spending my time correctly, not doing things at the right time, and then doing nothing but scrolling on my phone for hours because I reason that I don't have enough quality time to really get into what I want to do. I've been living vicariously through other people's Stories and Reels and TikToks, making excuses for myself like "oh that takes too long to learn" or "that costs so much money to try" and "what if I don't like it". 
 
-I waste so much time doing things I didn't even want to do. Sitting on the couch, scrolling through my phone because I want to be near my partner, but I don't care to watch the latest thing on Netflix or Prime or YouTube. My current hobbies are sending dumb memes to my roommate and oversharing on Twitter, and neither of them truly enrich my life in any way. I've been living vicariously through other people's Stories and Reels and TikToks, making excuses for myself like "oh that takes too long to learn" or "that costs so much money to try" and "what if I don't like it". 
-
-Well, the time will pass anyways, might as well do something I actually enjoy.
+Well, the time will pass anyways, better an actor than always the passive observer. If I can plan my time better, or be less attached with the idea of doing things only at the perfect time, I will have something to show for it at the end of the year.
 
 ### Some existing habits:
 
 - Working out (weightlifting)
 
-For the most part, I've been pretty consistent with these. I aim to do at least 3 quality workouts a week, and I at least wash with cleanser daily, rather than splashing water and calling it a day. For my workouts, I found that when I switched from a 3-day plan to a 4-day plan (which I could have done as alternating days i.e. 3x-4x a week), my intention of MT-TF workout days would become M-W-TF or MT--FS, and I would have a lot of anxiety with completing my workouts for the week. If I got too off track one week, it would discourage me from doing the rest of the workouts for the week and just "waiting to restart next week". Finding a better schedule and being more flexible with my routine would help a lot. If I didn't have the time for an 1.5h workout, I should be able to just do something quick and move my routine over a day, rather than becoming obsessive with having to do workout A on Monday, workout B on Tuesday etc.
+For the most part, I've been pretty consistent with this. I aim to do at least 3 quality workouts a week. This year, I found that when I switched from a 3-day plan to a 4-day plan (which I could have done instead as alternating days i.e. 3x-4x a week), my intention of MT-TF workout days would become M-W-TF or MT--FS, and I would have a lot of anxiety with completing my workouts for the week. If I got too off track early on, it would discourage me from doing the rest of the scheduled workouts for the week. Finding a better schedule and being more flexible with my routine would help a lot. If I didn't have the time for an 1.5h workout, I can just do something quick and move my routine over a day, rather than becoming obsessive with having to do workout A on Monday, workout B on Tuesday etc and declaring it a failure if I don't follow it to the letter.
+
+Moving my body is a privilege, not a burden, and it should improve my life rather than adding its own set of anxiety. Progress might be slower than if I only stuck to a routine, but I'll take progress over procrastination.
 
 ### Some inconsistent habits:
 
@@ -64,11 +66,11 @@ For the most part, I've been pretty consistent with these. I aim to do at least 
 - Walking
 - Cleaning
 
-I usually try to mealprep a few times a month, but sometimes I have a busy weekend of doing non-cooking related things and then I'm scrambling for food all week. This has meant airfrying freezer food, which is not the healthiest. Instead, I'm going to aim for Sundays and (no-meeting) Wednesdays as my prep days as needed, and Saturday as my grocery day.
+I usually try to meal prep a few times a month, but sometimes I have a busy weekend of doing non-cooking related things and then I'm scrambling for food all week. This has meant airfrying freezer food, which is not the healthiest. Instead, I'm going to aim for Sundays and (no-meeting) Wednesdays as my prep days as needed, and Saturday as my grocery day.
 
 Writing posts - I'm currently working on it! I have a content "plan" and many half-finished and just-started drafts, but have not set myself proper deadlines. I am going to aim for a post every month, since I want to limit my screen time and working an office job means 8+ hours of staring at a screen during the day and I... need a break. Maybe 10 minutes every morning to just freeform, and editing once a week? That should be reasonable.
 
-Yoga and mindfulness are two things I want to do more of this year. I find myself lost after doing 30 days of guided, introductory sessions, and then stop. I also force myself to do them even when I don't want to during those 30 days, so I'm sure there's some resentment built in. Acknowledging that is a first step, actually doing something is the next.
+Yoga and mindfulness are two things I want to do more of this year. I find myself lost after doing 30 days of guided, introductory sessions, and then stop. I also forced myself to do them even when I don't want to during those 30 days, so I'm sure there's some resentment and "going through the motions". Acknowledging that is a first step, actually doing something is the next. If I "go through the motions" enough, eventually the consistency will win out. Sometimes the things you enjoy will feel like a chore, but you'll be thankful for following through on them.
 
 Walking is one of those things I enjoy doing, but don't do as often as I should because who wants to put on a bra and outside clothes? Even walking on the treadmill requires that I put on socks or something, which feels like a waste because I need to do extra sock-based laundry for 30 minutes of walking. This can probably be tied into another unwritten goal I have, which is to dress more put-together, even for WFH. This way, I don't have to justify putting on different clothes for an hour walk when I'm already dressed for the day... and I'm not above wearing sweats outside.
 
@@ -88,7 +90,7 @@ I want to to make cute things and not die in the case of a zombie apocalypse, si
 
 Running outdoors combines two of my least favourite things - running, and the mortifying ordeal of being perceived. I'm hoping being outside of my comfort zone for this will translate into personality improvements elsewhere.
 
-I bought cool new seeds that weren't the 3 for a dollar ones from Dollarama, so now I'm invested in getting beautiful non-red tomatoes, spicy peppers and cool potatoes. It seems like it would be so peaceful to spend mornings puttering around a garden, and would be a great mood-booster. At least that's the hope. Maybe I should have set my goal as being able to wake up before 9am.
+I bought cool new seeds that weren't the 3 for a dollar ones from Dollarama, so now I'm invested in getting beautiful non-red tomatoes, spicy peppers and colourful potatoes. It seems like it would be so peaceful to spend mornings puttering around a garden, and would be a great mood-booster. At least that's the hope. Maybe I should have set my goal as being able to wake up before 9am.
 
 ## Vision Board
 
